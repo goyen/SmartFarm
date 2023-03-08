@@ -1,4 +1,5 @@
 # SmartFarm
+Details are in the file Smart-Farm.pdf
 
 Summary
 Development environment 
